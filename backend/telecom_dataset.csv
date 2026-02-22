@@ -1,0 +1,109 @@
+network nahi aa raha hai,network_issue
+net bahut slow chal raha hai,network_issue
+wifi connect nahi ho raha,network_issue
+signal weak hai mere area me,network_issue
+call drop ho raha hai baar baar,network_issue
+internet disconnect ho raha hai,network_issue
+mobile data work nahi kar raha,network_issue
+net speed bahut low hai,network_issue
+phone me no service dikha raha hai,network_issue
+data chal hi nahi raha,network_issue
+
+naa network pani cheyatledu,network_issue
+internet chala slow ga undi,network_issue
+signal ledu na phone lo,network_issue
+wifi connect avvatledu,network_issue
+call madhyalo cut avtundi,network_issue
+mobile data pani cheyatledu,network_issue
+net speed chala takkuva undi,network_issue
+internet disconnect avutundi,network_issue
+network problem undi,network_issue
+phone lo service kanipinchadam ledu,network_issue
+
+bill galat aa raha hai,billing_issue
+extra charge laga diya,billing_issue
+payment deduct ho gaya par update nahi hua,billing_issue
+mujhe wrong bill mila,billing_issue
+bill amount zyada hai,billing_issue
+double payment ho gaya,billing_issue
+refund nahi mila,billing_issue
+billing error aa raha hai,billing_issue
+invoice galat hai,billing_issue
+bill update nahi hua,billing_issue
+
+naa bill tappuga vachindi,billing_issue
+extra amount charge ayyindi,billing_issue
+payment deduct ayindi kani update ledu,billing_issue
+refund raledu,billing_issue
+billing problem undi,billing_issue
+invoice tappuga undi,billing_issue
+bill amount ekkuva undi,billing_issue
+double charge ayyindi,billing_issue
+payment history tappuga undi,billing_issue
+billing system error chupistundi,billing_issue
+
+sim activate nahi ho raha,sim_issue
+sim block ho gaya hai,sim_issue
+sim detect nahi ho raha,sim_issue
+naya sim activate karna hai,sim_issue
+sim me network nahi aa raha,sim_issue
+sim replace karna hai,sim_issue
+sim invalid dikha raha hai,sim_issue
+sim card ka problem hai,sim_issue
+sim ka signal nahi hai,sim_issue
+sim verification fail ho gaya,sim_issue
+
+sim activate avvatledu,sim_issue
+sim block ayyindi,sim_issue
+sim detect avvatledu,sim_issue
+kotha sim activate cheyali,sim_issue
+sim lo signal ledu,sim_issue
+sim replace kavali,sim_issue
+sim invalid ani chupistundi,sim_issue
+sim card problem undi,sim_issue
+sim verify avvaledu,sim_issue
+sim connection ledu,sim_issue
+
+recharge nahi ho raha,recharge_issue
+recharge fail ho gaya,recharge_issue
+paise deduct ho gaye recharge nahi hua,recharge_issue
+plan activate nahi hua,recharge_issue
+recharge error dikha raha hai,recharge_issue
+topup add nahi hua,recharge_issue
+recharge pending hai,recharge_issue
+recharge confirm nahi hua,recharge_issue
+transaction fail ho gaya,recharge_issue
+recharge problem aa raha hai,recharge_issue
+
+recharge avvatledu,recharge_issue
+recharge fail ayyindi,recharge_issue
+amount deduct ayindi kani recharge ledu,recharge_issue
+plan activate kaaledu,recharge_issue
+recharge error chupistundi,recharge_issue
+topup add kaaledu,recharge_issue
+recharge pending undi,recharge_issue
+transaction fail ayyindi,recharge_issue
+recharge issue undi,recharge_issue
+recharge success kani data ledu,recharge_issue
+
+plan ela marchali,general_query
+customer care number enti,general_query
+balance ela check cheyali,general_query
+account settings help kavali,general_query
+services gurinchi info kavali,general_query
+roaming ela activate cheyali,general_query
+general help kavali,general_query
+offers gurinchi telusukovali,general_query
+plan details kavali,general_query
+service inquiry undi,general_query
+
+plan kaise change kare,general_query
+customer care ka number kya hai,general_query
+balance kaise check kare,general_query
+account help chahiye,general_query
+service info chahiye,general_query
+roaming kaise activate kare,general_query
+general help chahiye,general_query
+offers ke bare me batao,general_query
+plan details batao,general_query
+service ke bare me puchna hai,general_query

@@ -1,0 +1,11 @@
+text,label
+"Mera recharge ho gaya but net nahi chal raha",network_issue
+"No signal in my area since morning",network_issue
+"Balance deduct ho gaya without recharge",billing_issue
+"Recharge failed but money deducted",billing_issue
+"SIM not activated yet",sim_issue
+"SIM blocked suddenly",sim_issue
+"How to check my current plan?",general_query
+"What is my remaining data balance?",general_query
+"Internet speed bahut slow hai",network_issue
+"Recharge of 299 failed account 99887766",recharge_issue
